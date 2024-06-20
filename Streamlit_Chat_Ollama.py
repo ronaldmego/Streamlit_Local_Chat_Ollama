@@ -30,7 +30,7 @@ def main():
     """
 
     page_icon("💬")
-    st.subheader("Ollama Playground", divider="red", anchor=False)
+    st.subheader("Streamlit Local Chat Ollama", divider="red", anchor=False)
 
     client = OpenAI(
         base_url="http://localhost:11434/v1",

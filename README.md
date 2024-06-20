@@ -41,7 +41,7 @@ pip install -r requirements.txt
 To start the app, run the following command in your terminal:
 
 ```bash
-streamlit run 01_💬_Chat_Demo.py
+streamlit Streamlit_Chat_Ollama.py
 ```
 
 Navigate to the URL provided by Streamlit in your browser to interact with the app.
