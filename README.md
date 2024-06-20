@@ -1,4 +1,4 @@
-# 🚀 Ollama x Streamlit Playground
+# 🚀 Aplicacion Ollama Local Privada con Streamlit
 
 Requisitos:
 Instalar [Ollama](https://ollama.com/) 
